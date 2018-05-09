@@ -6,7 +6,7 @@ Run LLVM Libfuzzer on windows
 
 1. Download and install clang 5.0.0
 
-2. run `build.sh`
+2. run `build.bat`
 
 ## How to run LLVM Libfuzzer on windows
 
